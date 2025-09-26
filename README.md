@@ -6,4 +6,6 @@
 
 # 作業連結區
 
+[Week2](https://github.com/Huwa-hank/114-1PL/blob/main/week2_%E7%94%9F%E6%B4%BB%E6%B6%88%E8%B2%BB%E7%B4%80%E9%8C%84%E8%A1%A8.ipynb)
+
 # 專題連結區
